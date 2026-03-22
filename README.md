@@ -1,4 +1,4 @@
-Material related to the paper entitled: “Assessment of Quantum Mechanics-Based Hydrophatic Descriptors to Navigate the Isofunctional Chemical Space in Scaffold Hopping”
+Material related to the paper entitled: “Assessment of Quantum Mechanics-Based Hydropathic Descriptors to Navigate the Isofunctional Chemical Space in Scaffold Hopping”
 
 
 PART1. Validation of isofunctional molecules
